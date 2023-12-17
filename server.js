@@ -10,7 +10,7 @@ const PORT = 3001;
 app.use(cors());
 app.use(bodyParser.json());
 
-mongoose.connect('mongodb://localhost:27017/Flexmoney');
+mongoose.connect('mongodb+srv://krishsinha2406:<8e$9p#NyjzAJxKU>@cluster0.p9lturr.mongodb.net/?retryWrites=true&w=majority');
 
 const admissionSchema = new mongoose.Schema({
   name: String,
