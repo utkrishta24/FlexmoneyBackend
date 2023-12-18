@@ -26,7 +26,7 @@ same month they need to be in the same batch.
 <p align="center">
   <img src="https://github.com/utkrishta24/FlexmoneyBackend/blob/main/screenshots/erdiag.png" height="350px" width="700px"/>
 </p>
-<p>Following is the ER Diagram of the database. A json file named test.admissions.json is also included in this repository for your reference. Here it is assumed that Complete Payment is also fully working module but in implementation, the function is mocked. Also the MongoDB cloud cluster is setup so every entry made is being added to the cluster on my mongodb database, screenshots of which are included below for your reference.</p>
+<p>Following is the ER Diagram of the database. A database json file named test.admissions.json is also included in this repository for your reference. Here it is assumed that Complete Payment is also fully working module but in implementation, the function is mocked. Also the MongoDB cloud cluster is setup so every entry made is being added to the cluster on my mongodb database, screenshots of which are included below for your reference.</p>
 
 ## Screenshots of deployed frontend & backend
 <p align="center">
