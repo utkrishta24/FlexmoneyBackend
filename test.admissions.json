@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "657ef70bdf1e659cdc9c8979"
+  },
+  "name": "Hemant Sinha",
+  "age": 50,
+  "selectedBatch": "7-8AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ef77fdf1e659cdc9c897b"
+  },
+  "name": "Isha Rastogi",
+  "age": 20,
+  "selectedBatch": "8-9AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ef856df1e659cdc9c897d"
+  },
+  "name": "Utkrishta Sinha",
+  "age": 24,
+  "selectedBatch": "6-7AM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658045f5b1ec7ab23869e0ac"
+  },
+  "name": "Utkarsh Sinha",
+  "age": 26,
+  "selectedBatch": "5-6PM",
+  "__v": 0
+}]
